@@ -89,8 +89,9 @@ static inline u32 Random(void)
   random = x;
   return x;
 }
+
 //_.-* SAME SHI BUT F32 INSTEAD OF U32 *-._//
-inline f32 fRandom(void)
+static inline f32 fRandom(void)
 {
   u32 x = (Random() & 0x7FFFFFu) | 0x3F800000u;
   f32 ret = *(f32*)&x;
