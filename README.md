@@ -1,6 +1,11 @@
 # TANK GAME
 coded in pure C (C99)
 
+### Screenshots
+![](screenshots/ss1.png)
+![](screenshots/ss2.png)
+![](screenshots/ss3.png)
+
 #### How To Compile It ?
 
 first you have to download [raylib](https://github.com/raysan5/raylib/releases/tag/5.0)
