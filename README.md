@@ -20,6 +20,6 @@ first you have to download [raylib](https://github.com/raysan5/raylib/releases/t
 
 ### INFO:
 
-the `tank` file in this rep is ELF64 (for linux)
+the **tank** file in this rep is ELF64 (for linux)
 
 all resources (images) are embeded in the .c file
